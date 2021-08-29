@@ -1,6 +1,6 @@
 ---
 title: 'About Me'
-avatar: 'person.jpg'
+avatar: 'me.jpg'
 skills:
   - Java
   - Python
