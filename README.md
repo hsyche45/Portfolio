@@ -5,7 +5,7 @@
   Portfolio Website Version 1
 </h1>
 <p align="center">
-  The first iteration of <a href="hsyche45.github.io/portfolio/" target="_blank">hsyche45.github.io/portfolio/</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+  The first iteration of <a href="hsyche45.github.io/portfolio/" target="_blank">https://hsyche45.github.io/portfolio/</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
 
 <div align="center">
