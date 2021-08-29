@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Picutre and Video Sharing Platform'
-cover: 'around demo.png'
+cover: '2.png'
 github: 'https://github.com/hsyche45/Sharing_Platform'
 external: 'https://github.com/hsyche45/Sharing_Platform'
 tech:

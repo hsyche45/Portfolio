@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Twitch Recommendation System'
-cover: 'Twitch.png'
+cover: '1.png'
 github: 'https://github.com/hsyche45/Twitch_Reccomendation_Platform'
 external: 'https://github.com/hsyche45/Twitch_Reccomendation_Platform'
 tech:
