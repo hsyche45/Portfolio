@@ -1,7 +1,7 @@
 ---
 date: '0'
 title: 'Android Based News App'
-cover: 'android demos.png'
+cover: 'android.png'
 github: 'https://github.com/hsyche45/Android_NewsApp'
 external: 'https://github.com/hsyche45/Android_NewsApp'
 tech:

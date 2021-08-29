@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Starlink Trajectory Visualization'
-cover: 'demo.png'
+cover: 'starlink demo.png'
 github: 'https://github.com/hsyche45/Starlink_Trajectory_Visualization'
 external: 'https://github.com/hsyche45/Starlink_Trajectory_Visualization'
 tech:

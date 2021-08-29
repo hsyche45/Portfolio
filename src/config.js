@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yifei-chen-a126a46b/',
+      url: 'https://www.linkedin.com/in/yifeichen93/',
     },
     // {
     //   name: 'Codepen',
