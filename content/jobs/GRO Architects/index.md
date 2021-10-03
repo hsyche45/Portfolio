@@ -7,6 +7,5 @@ url: 'https://www.groarc.com/'
 ---
 
 - Involved in a wide range of projects and assisted the project manager in all development phases.
-- Collaborated with multiple consultants to deliver best project to clients.
-- Participated meetings on site and assisted clients and contractors with services.
-- Utilized programming tools to test feasibility for projects in early phases.
+- Lead a team which provided parametric design solutions for various scales projects within the firm, and participated in the creation of computational tools for the firm. Increased working efficiency firm wide.
+- Utilized Grasshopper (Python) to test feasibility for projects in early phases.

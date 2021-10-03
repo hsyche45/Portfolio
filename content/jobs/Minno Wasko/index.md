@@ -6,10 +6,10 @@ range: 'June 2021 - Present'
 url: 'http://www.minnowasko.com/mw/'
 ---
 
-- Responsible for the preperation of schemetic design concepts, preperation of design documentations.
+- Lead the renovation of parametric façade design pattern. Created the facade design guidance integrated with automation modeling tools using Dynamo (Java) with 70% improvement of modeling efficiency, and 20% of working efficiency.
 
-- Working closely with design team and assists to complete projects on aggresive schedules.
+- Responsible for the preparation of schematic design concepts and preparation of design documentations.
 
-- Assists in project-management scheduling and contractor follow-ups.
+- Developed firm-level information sharing platform BIM360 based on MySQL and delivered 3d models with Revit.
 
-- Utilizes systemetic and parametric softwares to develope solutions to design problems.
+- Working closely with design team to complete projects on aggressive schedules.
