@@ -1,6 +1,6 @@
 ---
 date: '2019-09-04'
-title: 'Architectural Designer'
+title: 'Architectural Engineer'
 company: 'GRO Architects'
 range: 'September 2019 - October 2020'
 url: 'https://www.groarc.com/'
