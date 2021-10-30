@@ -5,6 +5,6 @@ subtitle: 'I design and build cool things.'
 buttonText: 'Hire Me!'
 ---
 
-I am a highly motivated candidate seeking a full-time software engineer position.
-I have Strong Java programming, problem-solving and analytical skills. I have 2 years of experience in architecture, and dedicate to cloud based full-stack development projects.
-I am familiar with Go, React, HTML5, CSS and MVVM design pattern.
+Individual with strong Java programming, OO Design, algorithms, and problem-solving skills. Dedicate to cloud based full-stack development
+projects. Familiar with Go, React, RESTful APIs, HTML5 and MVVM design pattern. Looking for a software engineer position to contribute
+to the delivery of quality software solutions by applying interpersonal skills and knowledge of program design.
